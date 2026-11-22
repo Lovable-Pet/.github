@@ -26,7 +26,7 @@
 
 <img src="https://raw.githubusercontent.com/Lovable-Pet/.github/main/profile/assets/screen_flow.jpg" width="100%" alt="서비스 흐름: 둘러보기, 상세 정보, 실제 크기, 우리 집에 띄우기">
 
-<img src="https://raw.githubusercontent.com/Lovable-Pet/.github/main/profile/assets/screen_find.jpg" width="100%" alt="찾기와 찜: 검색, 필터, 관심목록">
+<img src="https://raw.githubusercontent.com/Lovable-Pet/.github/main/profile/assets/screen_find.jpg" width="100%" alt="찾기와 관심목록: 검색, 필터, 관심목록">
 
 <img src="https://raw.githubusercontent.com/Lovable-Pet/.github/main/profile/assets/screen_ar.jpg" width="100%" alt="AR과 3D: AR 안내, 우리 집 바닥에, 화면 안 3D">
 
