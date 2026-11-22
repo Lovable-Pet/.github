@@ -52,14 +52,14 @@
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://github.com/LeeJuYoung12"><img src="https://github.com/LeeJuYoung12.png" width="110" alt="이주영"><br><b>이주영</b></a><br><sub>LeeJuYoung12</sub><br><sub>기획 · 인프라 · BE · AR 파이프라인 · 애니메이션</sub></td>
-    <td align="center" width="33%"><a href="https://github.com/taetu"><img src="https://github.com/taetu.png" width="110" alt="김태우"><br><b>김태우</b></a><br><sub>taetu</sub><br><sub>BE · AR 인터랙션 · 애니메이션</sub></td>
-    <td align="center" width="33%"><a href="https://github.com/anjaein"><img src="https://github.com/anjaein.png" width="110" alt="안재인"><br><b>안재인</b></a><br><sub>anjaein</sub><br><sub>FE · UI 디자인</sub></td>
+    <td align="center" width="33%"><a href="https://github.com/LeeJuYoung12"><img src="https://github.com/LeeJuYoung12.png" width="110" alt="이주영"><br><b>이주영</b></a><br><sub><b>팀장</b> · LeeJuYoung12</sub><br><sub>기획 · 인프라 · BE · AR 파이프라인 · 애니메이션</sub></td>
+    <td align="center" width="33%"><a href="https://github.com/taetu"><img src="https://github.com/taetu.png" width="110" alt="김태우"><br><b>김태우</b></a><br><sub><b>팀원</b> · taetu</sub><br><sub>BE · AR 인터랙션 · 애니메이션</sub></td>
+    <td align="center" width="33%"><a href="https://github.com/anjaein"><img src="https://github.com/anjaein.png" width="110" alt="안재인"><br><b>안재인</b></a><br><sub><b>팀원</b> · anjaein</sub><br><sub>FE · UI 디자인</sub></td>
   </tr>
 </table>
 
 | 팀원 | 맡은 일 |
 | :-- | :-- |
-| **이주영**<br><sub>LeeJuYoung12</sub> | **기획**: 서비스 기획<br>**인프라**: AWS EC2 · Docker Compose, Caddy HTTPS, GitHub Actions → GHCR 자동 배포와 스모크 테스트<br>**BE**: 프로젝트 초기 세팅, 공공데이터 유기동물 공고 동기화와 목록 · 상세 · 필터 API, AR 생성 관리 (파이프라인 연동, GLB · USDZ 제공), 관리자 권한<br>**AR 파이프라인**: 공고 사진 → 3D 강아지 생성 파이프라인 설계 · 개발 (배경 제거, 견종 템플릿 고르기, 털 무늬 · 색 판독, 템플릿에 털 입히기, 실제 크기 계산)<br>**애니메이션**: 강아지 3D 동작 애니메이션 제작 |
-| **김태우**<br><sub>taetu</sub> | **BE**: 회원 · 로그인 (아이디 로그인, 카카오 로그인, JWT · 리프레시 토큰), 공통 응답 · 예외 처리, 찜 API<br>**AR 인터랙션 (FE)**: 바닥 인식과 놓기 (깊이 센서, 장애물 둘레 검사), 음성 명령 · 길게 눌러 짖기, 산책 모드, 고개 바라보기 · 몸 돌리기, 짖는 소리<br>**애니메이션**: 강아지 3D 동작 애니메이션 제작 |
-| **안재인**<br><sub>anjaein</sub> | **디자인**: 와이어프레임, 디자인 시스템, 로고, 전체 화면 리디자인<br>**FE**: 프로젝트 초기 세팅 (Vite · React · Tailwind · Storybook), 둘러보기 · 검색 · 필터 · 상세 · 찜 · 로그인 · 마이 · 관리자 화면, API 연동과 토큰 재발급, MSW 목업, 첫 AR 화면 (model-viewer), CI · Vercel 배포 |
+| **이주영**<br><sub><b>팀장</b></sub><br><sub>LeeJuYoung12</sub> | **기획**: 서비스 기획<br>**인프라**: AWS EC2 · Docker Compose, Caddy HTTPS, GitHub Actions → GHCR 자동 배포와 스모크 테스트<br>**BE**: 프로젝트 초기 세팅, 공공데이터 유기동물 공고 동기화와 목록 · 상세 · 필터 API, AR 생성 관리 (파이프라인 연동, GLB · USDZ 제공), 관리자 권한<br>**AR 파이프라인**: 공고 사진 → 3D 강아지 생성 파이프라인 설계 · 개발 (배경 제거, 견종 템플릿 고르기, 털 무늬 · 색 판독, 템플릿에 털 입히기, 실제 크기 계산)<br>**애니메이션**: 강아지 3D 동작 애니메이션 제작 |
+| **김태우**<br><sub><b>팀원</b></sub><br><sub>taetu</sub> | **BE**: 회원 · 로그인 (아이디 로그인, 카카오 로그인, JWT · 리프레시 토큰), 공통 응답 · 예외 처리, 찜 API<br>**AR 인터랙션 (FE)**: 바닥 인식과 놓기 (깊이 센서, 장애물 둘레 검사), 음성 명령 · 길게 눌러 짖기, 산책 모드, 고개 바라보기 · 몸 돌리기, 짖는 소리<br>**애니메이션**: 강아지 3D 동작 애니메이션 제작 |
+| **안재인**<br><sub><b>팀원</b></sub><br><sub>anjaein</sub> | **디자인**: 와이어프레임, 디자인 시스템, 로고, 전체 화면 리디자인<br>**FE**: 프로젝트 초기 세팅 (Vite · React · Tailwind · Storybook), 둘러보기 · 검색 · 필터 · 상세 · 찜 · 로그인 · 마이 · 관리자 화면, API 연동과 토큰 재발급, MSW 목업, 첫 AR 화면 (model-viewer), CI · Vercel 배포 |
